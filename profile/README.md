@@ -20,7 +20,7 @@ QuietBond is a mobile app built with React Native and Expo, using Firebase for r
 - **Accessibility**: High-contrast, screen-reader-compatible UI for inclusive use.
 
 ## Contact
-- **Author**: [missaugustina]  
+- **Author**: @missaugustina  
 - **Email**: quietbond@gmail.com  
 - **GitHub**: [github.com/quietbond](https://github.com/quietbond)  
 - **Project Link**: [github.com/quietbond/quietbond-app](https://github.com/quietbond/quietbond-app)
